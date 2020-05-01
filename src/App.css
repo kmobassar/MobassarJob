@@ -1,0 +1,26 @@
+.APP{
+    display: center;
+}
+nav{
+    display:flex;
+ justify-content: space-around;
+align-items: center;
+min-height: 10vh;
+background-color: MediumSeaGreen;
+color: white;
+
+
+}
+.link{
+    display: flex;
+    width: 40%;
+    text-align: center;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+ul>.samna{
+    color: white;
+}
